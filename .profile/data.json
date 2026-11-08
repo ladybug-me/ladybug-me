@@ -1,5 +1,5 @@
 {
- "key": "7ad7a74c",
+ "key": "4f8abc0e",
  "stars": 183,
  "contributions": 1207,
  "repos": 9,
@@ -133,7 +133,7 @@
    "url": "https://github.com/caelestia-kde/caelestia",
    "text": "Caelestia ported to KDE Plasma 6",
    "fork": false,
-   "stars": 1061,
+   "stars": 1064,
    "language": "QML",
    "topics": [
     "caelestia",
