@@ -1,0 +1,273 @@
+{
+ "key": "7ad7a74c",
+ "stars": 183,
+ "contributions": 1207,
+ "repos": 9,
+ "followers": 46,
+ "languages": [
+  [
+   "QML",
+   3946782
+  ],
+  [
+   "Python",
+   644421
+  ],
+  [
+   "JavaScript",
+   289505
+  ],
+  [
+   "CSS",
+   77523
+  ],
+  [
+   "Lua",
+   49115
+  ],
+  [
+   "HTML",
+   19224
+  ],
+  [
+   "SCSS",
+   6316
+  ]
+ ],
+ "days": [
+  [
+   {
+    "c": 0,
+    "day": 25,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 26,
+    "today": false
+   },
+   {
+    "c": 4,
+    "day": 27,
+    "today": false
+   },
+   {
+    "c": 37,
+    "day": 28,
+    "today": false
+   },
+   {
+    "c": 28,
+    "day": 29,
+    "today": false
+   },
+   {
+    "c": 5,
+    "day": 30,
+    "today": false
+   },
+   {
+    "c": 18,
+    "day": 31,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 0,
+    "day": 1,
+    "today": false
+   },
+   {
+    "c": 8,
+    "day": 2,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 3,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 4,
+    "today": false
+   },
+   {
+    "c": 1,
+    "day": 5,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 6,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 7,
+    "today": false
+   }
+  ],
+  [
+   {
+    "c": 3,
+    "day": 8,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
+  ]
+ ],
+ "streak": {
+  "current": 1,
+  "longest": 52
+ },
+ "pins": [
+  {
+   "name": "caelestia",
+   "url": "https://github.com/caelestia-kde/caelestia",
+   "text": "Caelestia ported to KDE Plasma 6",
+   "fork": false,
+   "stars": 1061,
+   "language": "QML",
+   "topics": [
+    "caelestia",
+    "dotfiles",
+    "kde",
+    "kde-theme",
+    "linux",
+    "qt6",
+    "quickshell",
+    "wayland"
+   ]
+  },
+  {
+   "name": "end-4dots-kde",
+   "url": "https://github.com/ladybug-me/end-4dots-kde",
+   "text": "dots-hyprland ported to KDE plasma 6",
+   "fork": false,
+   "stars": 135,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "wallpaper-collection",
+   "url": "https://github.com/ladybug-me/wallpaper-collection",
+   "text": "A collection of wallpapers that pair well with my KDE Plasma and Quickshell setup.",
+   "fork": false,
+   "stars": 46,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "psyduck",
+   "url": "https://github.com/ladybug-me/psyduck",
+   "text": "a fashion designer, outfit selector for various occasions.",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "plugins",
+   "url": "https://github.com/caelestia-kde/plugins",
+   "text": "A repo to maintain all plugins for caelestia kde",
+   "fork": false,
+   "stars": 6,
+   "language": "Python",
+   "topics": []
+  }
+ ],
+ "all": [
+  {
+   "name": "end-4dots-kde",
+   "url": "https://github.com/ladybug-me/end-4dots-kde",
+   "text": "dots-hyprland ported to KDE plasma 6",
+   "fork": false,
+   "stars": 135,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "wallpaper-collection",
+   "url": "https://github.com/ladybug-me/wallpaper-collection",
+   "text": "A collection of wallpapers that pair well with my KDE Plasma and Quickshell setup.",
+   "fork": false,
+   "stars": 46,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "RAN-Diagnostics-RAG",
+   "url": "https://github.com/ladybug-me/RAN-Diagnostics-RAG",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "psyduck",
+   "url": "https://github.com/ladybug-me/psyduck",
+   "text": "a fashion designer, outfit selector for various occasions.",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "ladybug-me",
+   "url": "https://github.com/ladybug-me/ladybug-me",
+   "text": "My GitHub profile",
+   "fork": false,
+   "stars": 0,
+   "language": null,
+   "topics": []
+  },
+  {
+   "name": "AQI-predictor",
+   "url": "https://github.com/ladybug-me/AQI-predictor",
+   "text": "Vellore AQI Health Alert System",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "health",
+    "logistic-regression",
+    "pollution-prediction"
+   ]
+  },
+  {
+   "name": "cava",
+   "url": "https://github.com/ladybug-me/cava",
+   "text": "Cross-platform Audio Visualizer",
+   "fork": true,
+   "stars": 0,
+   "language": "C",
+   "topics": []
+  },
+  {
+   "name": "wallpaper-selector",
+   "url": "https://github.com/ladybug-me/wallpaper-selector",
+   "text": "Maintainance repo for wallpaper-selector plugin for Caelestia-kde",
+   "fork": true,
+   "stars": 0,
+   "language": "QML",
+   "topics": []
+  },
+  {
+   "name": "GrudgeArtOnline",
+   "url": "https://github.com/ladybug-me/GrudgeArtOnline",
+   "text": "An adventure game inspired from solo leveling, using backboard.io to create memory retaining NPCs for fun and realism.",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": []
+  }
+ ]
+}
