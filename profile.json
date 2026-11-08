@@ -1,7 +1,7 @@
 {
   "version": 1,
   "login": "ladybug-me",
-  "seed": "#53575A",
+  "seed": "#3174D9",
   "seedFromAvatar": true,
   "scheme": "tonalSpot",
   "motion": true,
@@ -10,44 +10,37 @@
     "hero",
     "socials",
     "about",
-    "projects",
     "stack",
+    "projects",
     "stats",
     "streak",
     "wave",
     "buttons"
   ],
-  "hidden": [
-    "stack",
-    "buttons"
-  ],
+  "hidden": [],
   "hero": {
-    "greeting": "",
-    "name": "Caelestia KDE",
-    "subtitle": "Caelestia ported to KDE Plasma 6",
+    "greeting": "Hi, I'm",
+    "name": "ladybug-me",
+    "subtitle": "CSE 2nd yr",
     "typing": true,
     "avatarShape": "cookie12",
     "chips": [
       {
         "icon": "location_on",
-        "label": "Earth"
-      },
-      {
-        "icon": "code",
-        "label": "QML"
+        "label": "India"
       }
     ]
   },
   "about": {
-    "title": "Members",
+    "title": "About me",
     "items": [
       {
         "icon": "person",
-        "label": "ladybug-me "
+        "label": "Developer and designer"
       },
       {
-        "icon": "person",
-        "label": "0xSolanaceae"
+        "icon": "music_note_2",
+        "label": "Into Classical Music"
       }
     ]
   },
@@ -58,16 +51,24 @@
         "title": "Main",
         "items": [
           {
-            "icon": "brand:typescript",
-            "label": "TypeScript"
-          },
-          {
-            "icon": "brand:react",
-            "label": "React"
+            "icon": "brand:cplusplus",
+            "label": "C/C++"
           },
           {
             "icon": "brand:python",
             "label": "Python"
+          },
+          {
+            "icon": "brand:qt",
+            "label": "QML"
+          },
+          {
+            "icon": "brand:javascript",
+            "label": "Java"
+          },
+          {
+            "icon": "brand:sqlite",
+            "label": "SQL"
           }
         ]
       },
@@ -79,10 +80,6 @@
             "label": "Git"
           },
           {
-            "icon": "brand:figma",
-            "label": "Figma"
-          },
-          {
             "icon": "brand:githubactions",
             "label": "GitHub Actions"
           }
@@ -92,7 +89,13 @@
   },
   "projects": {
     "source": "pinned",
-    "repos": [],
+    "repos": [
+      "caelestia",
+      "end-4dots-kde",
+      "wallpaper-collection",
+      "plugins",
+      "psyduck"
+    ],
     "overrides": {},
     "empty": "No description yet.",
     "fork": "Fork"
@@ -115,12 +118,7 @@
     "days": "days"
   },
   "socials": {
-    "items": [
-      {
-        "icon": "brand:discord",
-        "url": "https://discord.gg/qTkpHrHp5H"
-      }
-    ],
+    "items": [],
     "variant": "chip",
     "fill": "tonal",
     "card": true
