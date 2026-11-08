@@ -17,9 +17,7 @@
     "wave",
     "buttons"
   ],
-  "hidden": [
-    "buttons"
-  ],
+  "hidden": [],
   "hero": {
     "greeting": "Hi, I'm",
     "name": "ladybug-me",
@@ -128,17 +126,12 @@
   "buttons": {
     "items": [
       {
-        "icon": "language",
-        "label": "My website",
-        "url": "https://example.com",
-        "style": "filled"
-      },
-      {
         "icon": "book_2",
-        "label": "All repositories",
-        "url": "",
-        "style": "tonal"
+        "label": "Organizations: Caelestia KDE",
+        "url": "https://github.com/caelestia-kde",
+        "style": "filled"
       }
-    ]
+    ],
+    "card": false
   }
 }
