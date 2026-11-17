@@ -1,5 +1,5 @@
 {
- "key": "8e6caeea",
+ "key": "e0479c27",
  "stars": 182,
  "contributions": 1231,
  "repos": 9,
@@ -118,9 +118,13 @@
    {
     "c": 0,
     "day": 16,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 17,
     "today": true
    },
-   null,
    null,
    null,
    null,
@@ -128,7 +132,7 @@
   ]
  ],
  "streak": {
-  "current": 2,
+  "current": 0,
   "longest": 52
  },
  "pins": [
@@ -137,7 +141,7 @@
    "url": "https://github.com/caelestia-kde/caelestia",
    "text": "Caelestia ported to KDE Plasma 6",
    "fork": false,
-   "stars": 1092,
+   "stars": 1094,
    "language": "QML",
    "topics": [
     "caelestia",
