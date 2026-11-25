@@ -126,10 +126,16 @@
   "buttons": {
     "items": [
       {
+        "icon": "link",
+        "label": "My Website",
+        "url": "https://ladybug-me.github.io/portfolio/",
+        "style": "filled"
+      },
+      {
         "icon": "book_2",
         "label": "Organizations: Caelestia KDE",
         "url": "https://github.com/caelestia-kde",
-        "style": "filled"
+        "style": "tonal"
       }
     ],
     "card": false
