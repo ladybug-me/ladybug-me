@@ -1,6 +1,6 @@
 {
- "key": "b952b7f7",
- "stars": 181,
+ "key": "613a03d7",
+ "stars": 182,
  "contributions": 1426,
  "repos": 9,
  "followers": 47,
@@ -123,9 +123,13 @@
    {
     "c": 2,
     "day": 24,
+    "today": false
+   },
+   {
+    "c": 0,
+    "day": 25,
     "today": true
    },
-   null,
    null,
    null,
    null
@@ -141,7 +145,7 @@
    "url": "https://github.com/caelestia-kde/caelestia",
    "text": "Caelestia ported to KDE Plasma 6",
    "fork": false,
-   "stars": 1125,
+   "stars": 1127,
    "language": "QML",
    "topics": [
     "caelestia",
@@ -159,7 +163,7 @@
    "url": "https://github.com/ladybug-me/end-4dots-kde",
    "text": "dots-hyprland ported to KDE plasma 6",
    "fork": false,
-   "stars": 133,
+   "stars": 134,
    "language": "QML",
    "topics": []
   },
@@ -197,7 +201,7 @@
    "url": "https://github.com/ladybug-me/end-4dots-kde",
    "text": "dots-hyprland ported to KDE plasma 6",
    "fork": false,
-   "stars": 133,
+   "stars": 134,
    "language": "QML",
    "topics": []
   },
