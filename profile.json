@@ -80,8 +80,24 @@
             "label": "Git"
           },
           {
-            "icon": "brand:githubactions",
-            "label": "GitHub Actions"
+            "icon": "brand:linux",
+            "label": "Linux"
+          },
+          {
+            "icon": "brand:pytorch",
+            "label": "PyTorch"
+          },
+          {
+            "icon": "brand:ultralytics",
+            "label": "Ultralytics"
+          },
+          {
+            "icon": "brand:fastapi",
+            "label": "FastAPI"
+          },
+          {
+            "icon": "brand:docker",
+            "label": "Docker"
           }
         ]
       }
@@ -126,13 +142,13 @@
   "buttons": {
     "items": [
       {
-        "icon": "link",
+        "icon": "person",
         "label": "My Website",
         "url": "https://ladybug-me.github.io/portfolio/",
         "style": "filled"
       },
       {
-        "icon": "book_2",
+        "icon": "brand:github",
         "label": "Organizations: Caelestia KDE",
         "url": "https://github.com/caelestia-kde",
         "style": "tonal"
