@@ -1,8 +1,8 @@
 {
- "key": "af2df095",
+ "key": "8bdc77d5",
  "stars": 182,
- "contributions": 1426,
- "repos": 9,
+ "contributions": 1525,
+ "repos": 10,
  "followers": 47,
  "languages": [
   [
@@ -11,15 +11,19 @@
   ],
   [
    "Python",
-   644421
+   933504
   ],
   [
    "JavaScript",
-   289505
+   406700
+  ],
+  [
+   "TypeScript",
+   220401
   ],
   [
    "CSS",
-   77523
+   84741
   ],
   [
    "Lua",
@@ -27,11 +31,7 @@
   ],
   [
    "HTML",
-   19224
-  ],
-  [
-   "SCSS",
-   6316
+   20682
   ]
  ],
  "days": [
@@ -121,12 +121,12 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 41,
     "day": 24,
     "today": false
    },
    {
-    "c": 0,
+    "c": 60,
     "day": 25,
     "today": true
    },
@@ -136,7 +136,7 @@
   ]
  ],
  "streak": {
-  "current": 23,
+  "current": 24,
   "longest": 52
  },
  "pins": [
@@ -229,6 +229,15 @@
    "text": "a fashion designer, outfit selector for various occasions.",
    "fork": false,
    "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "portfolio",
+   "url": "https://github.com/ladybug-me/portfolio",
+   "text": "repo for portfolio website",
+   "fork": false,
+   "stars": 0,
    "language": "Python",
    "topics": []
   },
