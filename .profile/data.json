@@ -1,7 +1,7 @@
 {
- "key": "8bdc77d5",
+ "key": "2eaf1363",
  "stars": 182,
- "contributions": 1525,
+ "contributions": 1724,
  "repos": 10,
  "followers": 47,
  "languages": [
@@ -37,12 +37,12 @@
  "days": [
   [
    {
-    "c": 16,
+    "c": 19,
     "day": 8,
     "today": false
    },
    {
-    "c": 43,
+    "c": 46,
     "day": 9,
     "today": false
    },
@@ -52,12 +52,12 @@
     "today": false
    },
    {
-    "c": 2,
+    "c": 3,
     "day": 11,
     "today": false
    },
    {
-    "c": 11,
+    "c": 12,
     "day": 12,
     "today": false
    },
@@ -67,14 +67,14 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 12,
     "day": 14,
     "today": false
    }
   ],
   [
    {
-    "c": 12,
+    "c": 16,
     "day": 15,
     "today": false
    },
@@ -89,7 +89,7 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 4,
     "day": 18,
     "today": false
    },
@@ -99,34 +99,34 @@
     "today": false
    },
    {
-    "c": 15,
+    "c": 16,
     "day": 20,
     "today": false
    },
    {
-    "c": 14,
+    "c": 15,
     "day": 21,
     "today": false
    }
   ],
   [
    {
-    "c": 23,
+    "c": 31,
     "day": 22,
     "today": false
    },
    {
-    "c": 5,
+    "c": 7,
     "day": 23,
     "today": false
    },
    {
-    "c": 41,
+    "c": 45,
     "day": 24,
     "today": false
    },
    {
-    "c": 60,
+    "c": 61,
     "day": 25,
     "today": true
    },
@@ -137,7 +137,7 @@
  ],
  "streak": {
   "current": 24,
-  "longest": 52
+  "longest": 53
  },
  "pins": [
   {
@@ -168,15 +168,6 @@
    "topics": []
   },
   {
-   "name": "wallpaper-collection",
-   "url": "https://github.com/ladybug-me/wallpaper-collection",
-   "text": "A collection of wallpapers that pair well with my KDE Plasma and Quickshell setup.",
-   "fork": false,
-   "stars": 46,
-   "language": null,
-   "topics": []
-  },
-  {
    "name": "psyduck",
    "url": "https://github.com/ladybug-me/psyduck",
    "text": "a fashion designer, outfit selector for various occasions.",
@@ -186,13 +177,35 @@
    "topics": []
   },
   {
-   "name": "plugins",
-   "url": "https://github.com/caelestia-kde/plugins",
-   "text": "A repo to maintain all plugins for caelestia kde",
+   "name": "portfolio",
+   "url": "https://github.com/ladybug-me/portfolio",
+   "text": "repo for portfolio website",
    "fork": false,
-   "stars": 6,
+   "stars": 0,
    "language": "Python",
    "topics": []
+  },
+  {
+   "name": "RAN-Diagnostics-RAG",
+   "url": "https://github.com/ladybug-me/RAN-Diagnostics-RAG",
+   "text": "",
+   "fork": false,
+   "stars": 1,
+   "language": "Python",
+   "topics": []
+  },
+  {
+   "name": "AQI-predictor",
+   "url": "https://github.com/ladybug-me/AQI-predictor",
+   "text": "Vellore AQI Health Alert System",
+   "fork": false,
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "health",
+    "logistic-regression",
+    "pollution-prediction"
+   ]
   }
  ],
  "all": [
