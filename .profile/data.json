@@ -1,7 +1,7 @@
 {
- "key": "92127e6d",
- "stars": 182,
- "contributions": 1742,
+ "key": "fba355e1",
+ "stars": 184,
+ "contributions": 1749,
  "repos": 10,
  "followers": 47,
  "languages": [
@@ -19,11 +19,11 @@
   ],
   [
    "TypeScript",
-   221685
+   233721
   ],
   [
    "CSS",
-   84741
+   84935
   ],
   [
    "Lua",
@@ -136,7 +136,7 @@
     "today": false
    },
    {
-    "c": 1,
+    "c": 8,
     "day": 27,
     "today": true
    },
@@ -153,7 +153,7 @@
    "url": "https://github.com/caelestia-kde/caelestia",
    "text": "Caelestia ported to KDE Plasma 6",
    "fork": false,
-   "stars": 1137,
+   "stars": 1139,
    "language": "QML",
    "topics": [
     "caelestia",
@@ -187,11 +187,21 @@
   {
    "name": "portfolio",
    "url": "https://github.com/ladybug-me/portfolio",
-   "text": "repo for portfolio website",
+   "text": "3D portfolio website",
    "fork": false,
-   "stars": 0,
+   "stars": 2,
    "language": "Python",
-   "topics": []
+   "topics": [
+    "portfolio-website",
+    "threejs",
+    "typescript",
+    "gsap",
+    "react",
+    "lenis",
+    "tailwindcss",
+    "vite",
+    "3d-website"
+   ]
   },
   {
    "name": "RAN-Diagnostics-RAG",
@@ -236,6 +246,25 @@
    "topics": []
   },
   {
+   "name": "portfolio",
+   "url": "https://github.com/ladybug-me/portfolio",
+   "text": "3D portfolio website",
+   "fork": false,
+   "stars": 2,
+   "language": "Python",
+   "topics": [
+    "portfolio-website",
+    "threejs",
+    "typescript",
+    "gsap",
+    "react",
+    "lenis",
+    "tailwindcss",
+    "vite",
+    "3d-website"
+   ]
+  },
+  {
    "name": "RAN-Diagnostics-RAG",
    "url": "https://github.com/ladybug-me/RAN-Diagnostics-RAG",
    "text": "",
@@ -250,15 +279,6 @@
    "text": "a fashion designer, outfit selector for various occasions.",
    "fork": false,
    "stars": 1,
-   "language": "Python",
-   "topics": []
-  },
-  {
-   "name": "portfolio",
-   "url": "https://github.com/ladybug-me/portfolio",
-   "text": "repo for portfolio website",
-   "fork": false,
-   "stars": 0,
    "language": "Python",
    "topics": []
   },
